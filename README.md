@@ -2,11 +2,7 @@
 
 ## 🎯 Overview
 
-Many colleges face challenges in promoting club events, managing participation, and reaching the right audience—especially across different institutions. There is a lack of a unified digital platform that allows seamless visibility and management of club events while controlling access based on institution-specific criteria.
-
-**clubXplore** is a centralized platform where college clubs can create, manage, and promote events with customizable visibility settings (college-exclusive or open to all). Students can register on the platform, browse events within their own college, and search for events from other colleges. College-exclusive events are visible only to students of that specific institution.
-
-Clubs have access to dashboards displaying registered participants in a tabular format, enabling effective attendee management. This platform streamlines communication between clubs and students, encourages inter-college participation where applicable, and enhances overall event management efficiency.
+clubXplore is a unified platform for college clubs to create, manage, and promote events with customizable visibility. Students can browse and register for events within their college or others, while clubs can efficiently manage participation through dashboards. It simplifies event promotion and boosts student engagement across colleges.
 
 ---
 
