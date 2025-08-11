@@ -21,7 +21,7 @@ clubXplore is a unified platform for college clubs to create, manage, and promot
 
 ---
 
-## Technologies Used 🛠️
+## 🛠️ Technologies Used
 
 | Layer          | Technology          |
 | -------------- | ------------------- |
@@ -72,7 +72,7 @@ clubXplore is a unified platform for college clubs to create, manage, and promot
 
 ---
 
-## Usage 📋
+## 📋 Usage
 
 - **Landing Page:** `/interface` - Login page for colleges and students  
 - **Authentication:**  
@@ -83,7 +83,7 @@ clubXplore is a unified platform for college clubs to create, manage, and promot
 
 ---
 
-## Project Structure 📁
+## 📁 Project Structure
 
 - `/routes` - Express route handlers for colleges, clubs, events, and authentication  
 - `/views` - EJS templates for frontend UI  
@@ -92,19 +92,19 @@ clubXplore is a unified platform for college clubs to create, manage, and promot
 
 ---
 
-## Contributing 🤝
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## License 📄
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## Contact ✉️
+## ✉️ Contact
 
 For any questions or feedback, please contact:
 
