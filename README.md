@@ -23,13 +23,16 @@ clubXplore is a unified platform for college clubs to create, manage, and promot
 
 ## Technologies Used 🛠️
 
-- **Frontend:** EJS, CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Authentication:** Passport.js  
-- **Language:** JavaScript  
+| Layer          | Technology          |
+| -------------- | ------------------- |
+| **Frontend**   | EJS, CSS, Bootstrap |
+| **Backend**    | Node.js, Express.js |
+| **Database**   | MongoDB             |
+| **Authentication** | Passport.js      |
+| **Language**   | JavaScript          |
 
 ---
+
 
 ## ⚙️ Installation & Setup
 
